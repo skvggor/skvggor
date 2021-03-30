@@ -12,4 +12,4 @@ I'm a developer currently working with Vue and React at [Match](https://www.matc
 
 ### GitHub stats
 
-![marcker](https://github-readme-stats.vercel.app/api?username=marcker&show_icons=true&theme=dracula&hide_title=true&count_private=true)
+[![marcker](https://github-readme-stats.vercel.app/api?username=marcker&show_icons=true&theme=dracula&hide_title=true&count_private=true)](https://github.com/marcker)
