@@ -1,9 +1,21 @@
-# Stats
+<div align="center">
+  <h1>
+    🧑‍💻 Marcos Lima
+  </h1>
+</div>
 
-## With languages
+More than a decade influencing the software development and web programming industry. Always focusing on quality, accessibility, UI/UX and also the most effective solution to the problem at hand.</p>
 
-[![marcker](https://github-readme-stats.vercel.app/api/wakatime?username=marcker&theme=dracula&hide_title=true&layout=compact)](https://github.com/marcker)
+Solid knowledge in Linux, Python, Vue.js, React, APIs, JAMStack, Design (Figma, Inkscape, typography, interfaces) and ...literature.
 
-## With GitHub
+<div align="center">
+  <h2>🤖 Daily code</h2>
+</div>
 
-[![marcker](https://github-readme-stats.vercel.app/api?username=marcker&show_icons=true&theme=dracula&hide_title=true&count_private=true)](https://github.com/marcker)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcker&hide_title=true&layout=compact&theme=transparent" alt="Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marcker&show_icons=true&theme=transparent&hide_title=true&count_private=true" alt="Stats" />
+</div>
