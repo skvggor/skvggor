@@ -17,5 +17,5 @@ Solid knowledge in Linux, Python, Vue.js, React, APIs, JAMStack, Design (Figma, 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcker&show_icons=true&theme=transparent&hide_title=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=skvggor&show_icons=true&theme=transparent&hide_title=true&count_private=true" alt="Stats" />
 </div>
