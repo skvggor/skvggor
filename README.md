@@ -18,11 +18,11 @@
 </div>
 
 <div align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcker&hide_title=true&layout=compact&theme=transparent" alt="Stats" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcker&hide_title=true&layout=compact&theme=transparent" alt="Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img width="360" src="https://github-readme-stats.vercel.app/api?username=skvggor&show_icons=true&theme=transparent&hide_title=true&count_private=true" alt="Stats" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=skvggor&show_icons=true&theme=transparent&hide_title=true&count_private=true" alt="Stats" />
 </div>
