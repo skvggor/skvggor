@@ -14,7 +14,7 @@
 </details>
 
 <div align="center">
-  <h2>🤖 Daily code</h2>
+  <h2>🤖 Recent code</h2>
 </div>
 
 <div align="center">
