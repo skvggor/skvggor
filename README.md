@@ -17,7 +17,7 @@
 
 <div align="center">
   <h2>🤖 Recent Code Activity</h2>
-  <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=marcker&hide_title=true&layout=compact&theme=transparent" alt="Wakatime Stats" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api/wakatime?username=skvggor&hide_title=true&layout=compact&theme=transparent" alt="Wakatime Stats" />
 </div>
 
 <br>
