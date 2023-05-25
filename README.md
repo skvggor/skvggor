@@ -5,6 +5,8 @@
 
 ## Daily code
 
+[![Latest data](https://github.com/skvggor/skvggor/actions/workflows/main.yml/badge.svg)](https://github.com/skvggor/skvggor/actions/workflows/main.yml)
+
 <!--START_SECTION:waka-->
 
 ```text
