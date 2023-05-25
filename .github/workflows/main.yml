@@ -1,0 +1,16 @@
+name: Waka Readme
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Rode todos os dias à meia-noite
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    name: Update this repo's README with latest WakaTime stats
+    steps:
+      - uses: actions/checkout@v2
+      - name: Pull WakaTime stats
+        uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
