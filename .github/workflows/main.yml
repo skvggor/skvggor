@@ -2,7 +2,7 @@ name: Waka Readme
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # Rode todos os dias à meia-noite
+    - cron: '25 3 * * *'  # Rode todos os dias à meia-noite
 
 jobs:
   update:
