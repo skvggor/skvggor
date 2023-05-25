@@ -3,6 +3,8 @@
   <h1>Marcos Lima</h1>
 </div>
 
+## Daily code
+
 <!--START_SECTION:waka-->
 
 ```text
