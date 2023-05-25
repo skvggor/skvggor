@@ -3,11 +3,9 @@
   <h1>Marcos Lima</h1>
 </div>
 
-<!-- <details> -->
-<!--   <summary> -->
-<!--     <strong>About Me</strong> -->
-    About Me
-<!--   </summary> -->
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
   <p>Hi there! My name is Marcos and I'm a software developer specializing in web development, with over 12 years of experience. Throughout my career, I've worked on projects for well-known companies such as Unilever, Honda, Claro (América Móvil), Subaru, and Popeyes. This has allowed me to gain extensive experience in developing and maintaining web applications.</p>
   
