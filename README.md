@@ -5,6 +5,14 @@
 
 <!--START_SECTION:waka-->
 
+```text
+Java             3 hrs 3 mins    ███████▓░░░░░░░░░░░░░░░░░   30.13 %
+CSV              1 hr 29 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.73 %
+Astro            1 hr 25 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.06 %
+Markdown         1 hr 7 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.08 %
+Other            55 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.11 %
+```
+
 <!--END_SECTION:waka-->
 
   <p>Hi there! My name is Marcos and I'm a software developer specializing in web development, with over 12 years of experience. Throughout my career, I've worked on projects for well-known companies such as Unilever, Honda, Claro (América Móvil), Subaru, and Popeyes. This has allowed me to gain extensive experience in developing and maintaining web applications.</p>
