@@ -3,7 +3,7 @@
   <h1>Marcos Lima</h1>
 </div>
 
-## Daily code
+## Weekly code
 
 [![Latest data](https://github.com/skvggor/skvggor/actions/workflows/main.yml/badge.svg)](https://github.com/skvggor/skvggor/actions/workflows/main.yml)
 
