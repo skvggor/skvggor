@@ -10,8 +10,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Astro   43 mins         ██████████████████▒░░░░░░   72.73 %
-JSON    16 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.27 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
