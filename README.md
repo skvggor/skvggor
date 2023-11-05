@@ -29,7 +29,7 @@ HTML             0 secs          ░░░░░░░░░░░░░░░�
 
   <p>Hi there! My name is Marcos and I'm a software developer specializing in web development, with over 12 years of experience. Throughout my career, I've worked on projects for well-known companies such as Unilever, Honda, Claro (América Móvil), Subaru, and Popeyes. This has allowed me to gain extensive experience in developing and maintaining web applications.</p>
   
-  <p>Currently, I'm working at VIP BR Telecom as a tech lead, where I lead a team of web developers and oversee the development of the company's products. I'm passionate about utilizing the latest technologies and techniques to create user-friendly and engaging web experiences for clients.</p>
+  <p>I worked at VIP BR Telecom as a tech lead, where I led a team of web developers and oversaw the development of the company's products. I was passionate about utilizing the latest technologies and techniques to create user-friendly and engaging web experiences for clients.</p>
   
   <p>My skills include Linux, Python, Vue.js, React, APIs, JAMStack, Design (Figma, Inkscape, typography, interfaces), and literature.</p>
 <!-- </details> -->
