@@ -1,6 +1,8 @@
 <div align="center">
   <h1>Marcos Lima</h1>
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/958723/282551032-31efca7f-babb-4e2f-bbe3-b52e1c1e24fd.png" alt="Stats" />
+  <a href="https://skvggor.dev">
+    <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/958723/282551032-31efca7f-babb-4e2f-bbe3-b52e1c1e24fd.png" alt="Stats" />
+  </a>
 </div>
 
 ## Weekly code
