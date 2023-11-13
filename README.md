@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/958723/207206099-04913a11-e77d-4b52-a9d3-5d702839508b.png" alt="Stats" />
   <h1>Marcos Lima</h1>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/958723/282551032-31efca7f-babb-4e2f-bbe3-b52e1c1e24fd.png" alt="Stats" />
 </div>
 
 ## Weekly code
@@ -15,7 +15,9 @@ Git Config   0 secs          █████████████████
 
 <!--END_SECTION:waka-->
 
-<p>I'm Marcos, a seasoned web developer with over 12 years of experience. I've worked on projects for renowned companies like Unilever, Honda, Claro (América Móvil), Subaru, and Popeyes. As a tech lead at VIP BR Telecom, I led a web development team, creating user-friendly web experiences using the latest technologies. My skills include Linux, Python, Vue.js, React, APIs, JAMStack, and design (Figma, Inkscape, typography, interfaces).</p>
+## Bio
+
+<p>I'm a seasoned web developer with over 12 years of experience. I've worked on projects for renowned companies like Unilever, Honda, Claro (América Móvil), Subaru, and Popeyes. As a tech lead at VIP BR Telecom, I led a web development team, creating user-friendly web experiences using the latest technologies. My skills include Linux, Python, Vue.js, React, APIs, JAMStack, and design (Figma, Inkscape, typography, interfaces).</p>
 
 <!-- </details> -->
 
