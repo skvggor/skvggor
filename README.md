@@ -24,7 +24,7 @@ Bash         0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Bio
 
-<p>I'm an expert web developer with over 12 years of experience. I have worked on projects for renowned companies such as Unilever, Honda, Claro (América Móvil), Subaru, and Popeyes. As a tech lead at VIP BR Telecom, I led a web development team in creating user-friendly web experiences using the latest technologies. My skills include Linux, Python, Vue.js, React, APIs, JAMStack, and design (Figma, Inkscape, typography, interfaces).</p>
+<p>I am an expert web developer with over 12 years of experience. I have worked on projects for renowned companies such as Unilever, Honda, Claro (América Móvil), Subaru, and Popeyes. As a Tech Lead at VIP BR Telecom, I led a web development team, creating user-friendly web experiences utilizing the latest technologies. My skillset includes Linux, Python, Vue.js, React, APIs, JAMStack, and design (Figma, Inkscape, typography, interfaces).</p>
 
 <!-- </details> -->
 
