@@ -31,7 +31,7 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Bio
 
-<p>I am an expert web developer with over 12 years of experience. I have worked on projects for renowned companies such as Unilever, Honda, Claro (América Móvil), Subaru, and Popeyes. As a Tech Lead at VIP BR Telecom, I led a web development team, creating user-friendly web experiences utilizing the latest technologies. My skillset includes Linux, Python, Vue.js, React, APIs, JAMStack, and design (Figma, Inkscape, typography, interfaces).</p>
+<p>As a Senior Software Engineer with a primary focus on User Interface (UI) design, I bring over 12 years of experience to the table. Half of my career was spent at F.biz, a part of the British WPP Group, where I contributed to the development of websites for major brands like Unilever, Subaru, Honda, Instituto Maria da Penha, Votorantim Energia, and others. This role honed my skills, allowing me to emerge as a Senior Front-end Developer who consistently delivered high value to clients. Later, I assumed the role of Technical Lead at Alloha Fibra under the Vip Telecom brand, a prominent internet provider. There, I was instrumental in technical decision-making and spearheaded the hiring process for an entirely new team, working with Java, Rust, TypeScript, React, and Vue. Currently, I'm with Radix Engineering and Software, serving as a Senior Engineer. Here, I play a pivotal role in the development of a robust internal product named Nexus, which aids our developers in delivering their projects swiftly and effectively, always prioritizing quality.</p>
 
 <!-- </details> -->
 
