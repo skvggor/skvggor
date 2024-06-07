@@ -1,6 +1,4 @@
 <div align="center">
-  <h1>Marcos Lima</h1>
-  
   <a href="https://skvggor.dev">
     <img src="https://github.com/skvggor/skvggor/assets/958723/3c85f137-8d74-4cc8-a2b1-877784f3e44d" alt="Stats" />
   </a>
