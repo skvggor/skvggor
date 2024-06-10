@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://skvggor.dev">
-    <img src="https://github.com/skvggor/skvggor/assets/958723/3c85f137-8d74-4cc8-a2b1-877784f3e44d" alt="Stats" />
+    <img src="https://github.com/skvggor/skvggor/assets/958723/d0c9aa9c-0c21-4219-acff-3d4f36f94691" alt="My header" />
   </a>
 </div>
+
 
 ## Weekly code
 
