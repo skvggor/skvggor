@@ -28,8 +28,51 @@ Git Config   0 secs          ░░░░░░░░░░░░░░░░░
 
 ## Bio
 
-<p>As a Senior Software Engineer with a primary focus on User Interface (UI) design, I bring over 12 years of experience to the table. Half of my career was spent at F.biz, a part of the British WPP Group, where I contributed to the development of websites for major brands like Unilever, Subaru, Honda, Instituto Maria da Penha, Votorantim Energia, and others. This role honed my skills, allowing me to emerge as a Senior Front-end Developer who consistently delivered high value to clients. Later, I assumed the role of Technical Lead at Alloha Fibra under the Vip Telecom brand, a prominent internet provider. There, I was instrumental in technical decision-making and spearheaded the hiring process for an entirely new team, working with Java, Rust, TypeScript, React, and Vue. Currently, I'm with Radix Engineering and Software, serving as a Senior Engineer. Here, I play a pivotal role in the development of a robust internal product named Nexus, which aids our developers in delivering their projects swiftly and effectively, always prioritizing quality.</p>
+```rust
+#[derive(Debug)]
+struct Skills {
+    front_end: Vec<&'static str>,
+    back_end: Vec<&'static str>,
+    others: Vec<&'static str>,
+}
 
+fn main() {
+    let skills = Skills {
+        front_end: vec![
+            "React",
+            "Vue",
+            "MUI",
+            "Tailwind CSS",
+            "SCSS",
+            "Stylus",
+            "HTML",
+        ],
+        back_end: vec![
+            "Node.js",
+            "Python",
+            "Rust",
+            "Clojure",
+            "Apache Kafka",
+            "GraphQL",
+        ],
+        others: vec!["JavaScript", "TypeScript", "Java", "PHP"],
+    };
+
+    let experience_summary = "
+        I am a senior full-stack developer with about 14 years of experience in large-scale projects
+        across advertising, marketing, telecommunications, and engineering sectors.
+        I have led technical teams, built applications using modern front-end frameworks like React and Vue,
+        and developed microservices in Go, Python, C#, and Node.js. My recent work focuses on improving
+        developer experience through automation and quality practices, leveraging my skills in both
+        front-end and back-end technologies.
+    ";
+
+    println!("Front-end Skills: {:?}", skills.front_end);
+    println!("Back-end Skills: {:?}", skills.back_end);
+    println!("Other Skills: {:?}", skills.others);
+    println!("Experience Summary: {}", experience_summary);
+}
+```
 <!-- </details> -->
 
 <!-- <div align="center">
