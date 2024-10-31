@@ -18,17 +18,6 @@ pie
     "GraphQL" : 0.9
     "Other" : 0.8
     "HTTP Request" : 0.6
-    "Markdown" : 0.1
-    "GitIgnore file" : 0.0
-    "TSConfig" : 0.0
-    "CSS" : 0.0
-    "yarn.lock" : 0.0
-    "Image (svg)" : 0.0
-    "YAML" : 0.0
-    "Git Config" : 0.0
-    "JavaScript" : 0.0
-    "Cookie storage file" : 0.0
-    "Text" : 0.0
 ```
 
 <!--END_SECTION:waka-->
