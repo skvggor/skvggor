@@ -30,13 +30,6 @@ Cookie storage file   0 secs          ░░░░░░░░░░░░░░
 Text                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
-```mermaid
-pie
-    "JavaScript" : 10
-    "Clojure" : 10
-    "PHP" : 80 
-```
-
 <!--END_SECTION:waka-->
 
 ## Bio
