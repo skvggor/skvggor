@@ -12,22 +12,25 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript            41 hrs 15 mins  ████████████████████████░   95.78 %
-JSON                  46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
-GraphQL               22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
-Other                 20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
-HTTP Request          15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
-Markdown              2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
-GitIgnore file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-TSConfig              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-CSS                   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-yarn.lock             0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-Image (svg)           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-YAML                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Git Config            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-JavaScript            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Cookie storage file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
-Text                  0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+```mermaid
+pie
+    "TypeScript" : 95.8
+    "JSON" : 1.8
+    "GraphQL" : 0.9
+    "Other" : 0.8
+    "HTTP Request" : 0.6
+    "Markdown" : 0.1
+    "GitIgnore file" : 0.0
+    "TSConfig" : 0.0
+    "CSS" : 0.0
+    "yarn.lock" : 0.0
+    "Image (svg)" : 0.0
+    "YAML" : 0.0
+    "Git Config" : 0.0
+    "JavaScript" : 0.0
+    "Cookie storage file" : 0.0
+    "Text" : 0.0
+```
 ```
 
 <!--END_SECTION:waka-->
