@@ -11,7 +11,6 @@
 
 <!--START_SECTION:waka-->
 
-```txt
 ```mermaid
 pie
     "TypeScript" : 95.8
@@ -30,7 +29,6 @@ pie
     "JavaScript" : 0.0
     "Cookie storage file" : 0.0
     "Text" : 0.0
-```
 ```
 
 <!--END_SECTION:waka-->
