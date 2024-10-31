@@ -14,4 +14,4 @@ jobs:
         uses: skvggor/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          LANG_COUNT: 20
+          LANG_COUNT: 5
