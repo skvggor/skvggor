@@ -31,8 +31,6 @@ pie
     "Text" : 0.0
 ```
 
-<!--END_SECTION:waka-->
-
 ## Bio
 
 ```rust
