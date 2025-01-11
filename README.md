@@ -15,7 +15,6 @@ Source: https://github.com/skvggor/waka-readme
 
 ```mermaid
 pie
-    "TypeScript" : 100.0
 ```
 
 <!--END_SECTION:waka-->
