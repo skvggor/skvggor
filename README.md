@@ -15,6 +15,8 @@ Source: https://github.com/skvggor/waka-readme
 
 ```mermaid
 pie
+    "Desktop file" : 51.5
+    "Bash" : 48.5
 ```
 
 <!--END_SECTION:waka-->
