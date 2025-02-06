@@ -15,8 +15,11 @@ Source: https://github.com/skvggor/waka-readme
 
 ```mermaid
 pie
-    "Desktop file" : 51.5
-    "Bash" : 48.5
+    "TypeScript" : 44.4
+    "Go" : 18.0
+    "Desktop file" : 17.0
+    "Bash" : 16.0
+    "GraphQL" : 4.3
 ```
 
 <!--END_SECTION:waka-->
