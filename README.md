@@ -17,7 +17,7 @@ Source: https://github.com/skvggor/waka-readme
 pie
     "TypeScript" : 56.5
     "JSON" : 13.2
-    "Bash" : 10.4
+    "Bash" : 10.5
     "JavaScript" : 4.6
     "Markdown" : 3.2
 ```
