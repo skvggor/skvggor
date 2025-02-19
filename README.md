@@ -15,11 +15,11 @@ Source: https://github.com/skvggor/waka-readme
 
 ```mermaid
 pie
-    "TypeScript" : 71.4
-    "Other" : 12.0
-    "Docker" : 5.9
-    "JSON" : 5.6
-    "Bash" : 4.5
+    "TypeScript" : 70.7
+    "Other" : 12.3
+    "Bash" : 5.6
+    "Docker" : 5.5
+    "JSON" : 5.1
 ```
 
 <!--END_SECTION:waka-->
