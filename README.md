@@ -18,7 +18,6 @@ pie
     "TypeScript" : 96.5
     "Other" : 3.5
     "TeX" : 0.0
-    "JSON" : 0.0
 ```
 
 <!--END_SECTION:waka-->
