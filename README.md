@@ -15,11 +15,11 @@ Source: https://github.com/skvggor/waka-readme
 
 ```mermaid
 pie
-    "TypeScript" : 93.0
-    "Other" : 4.0
-    "JSON" : 2.2
+    "TypeScript" : 89.8
+    "Other" : 5.6
+    "JSON" : 2.1
+    "Markdown" : 1.8
     "Python" : 0.5
-    "Text" : 0.2
 ```
 
 <!--END_SECTION:waka-->
