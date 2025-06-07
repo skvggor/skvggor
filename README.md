@@ -9,8 +9,6 @@
 
 [![Latest data](https://github.com/skvggor/skvggor/actions/workflows/main.yml/badge.svg)](https://github.com/skvggor/skvggor/actions/workflows/main.yml)
 
-Source: https://github.com/skvggor/waka-readme
-
 <!--START_SECTION:waka-->
 
 ```mermaid
