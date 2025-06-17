@@ -13,9 +13,10 @@
 
 ```mermaid
 pie
-    "TypeScript" : 94.7
+    "TypeScript" : 93.8
     "Bash" : 3.4
-    "Other" : 1.8
+    "Other" : 2.4
+    "JSON" : 0.3
     "JavaScript" : 0.1
 ```
 
