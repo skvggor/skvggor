@@ -13,11 +13,11 @@
 
 ```mermaid
 pie
-    "TypeScript" : 82.7
-    "JSON" : 5.8
-    "YAML" : 5.0
-    "Other" : 3.6
-    "Bash" : 2.8
+    "TypeScript" : 90.3
+    "JSON" : 4.7
+    "Other" : 3.3
+    "Bash" : 1.3
+    "YAML" : 0.2
 ```
 
 <!--END_SECTION:waka-->
