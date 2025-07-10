@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About me
+### About me
 
 ```diff
 @@ Web Developer — Frontend Specialist @@
@@ -19,7 +19,7 @@
 - Not afraid of legacy code or complex architecture
 ```
 
-## Weekly code
+### Weekly code
   
 [![Latest data](https://github.com/skvggor/skvggor/actions/workflows/main.yml/badge.svg)](https://github.com/skvggor/skvggor/actions/workflows/main.yml)  
   
