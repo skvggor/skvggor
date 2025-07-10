@@ -4,20 +4,34 @@
   </a>
 </div>
 
+---
 
-## Weekly code
+### 🧠 About me
 
-[![Latest data](https://github.com/skvggor/skvggor/actions/workflows/main.yml/badge.svg)](https://github.com/skvggor/skvggor/actions/workflows/main.yml)
+```diff
+@@ Web Developer — Frontend Specialist @@
 
-<!--START_SECTION:waka-->
-
-```mermaid
-pie
-    "TypeScript" : 69.8
-    "Bash" : 14.7
-    "Python" : 8.0
-    "Other" : 4.1
-    "Makefile" : 2.5
++ 14+ years of experience in large-scale systems
++ Focused on frontend (React, Next.js, MUI, DX)
++ Comfortable in backend: Node.js and Python
+! Currently learning Rust and Clojure with passion
++ Known for leadership, organization, and collaboration
+- Not afraid of legacy code or complex architecture
 ```
 
+## Weekly code
+  
+[![Latest data](https://github.com/skvggor/skvggor/actions/workflows/main.yml/badge.svg)](https://github.com/skvggor/skvggor/actions/workflows/main.yml)  
+  
+<!--START_SECTION:waka-->  
+  
+```mermaid  
+pie  
+    "TypeScript" : 69.8  
+    "Bash" : 14.7  
+    "Python" : 8.0  
+    "Other" : 4.1  
+    "Makefile" : 2.5  
+```  
+  
 <!--END_SECTION:waka-->
