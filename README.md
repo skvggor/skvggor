@@ -23,15 +23,15 @@
   
 [![Latest data](https://github.com/skvggor/skvggor/actions/workflows/main.yml/badge.svg)](https://github.com/skvggor/skvggor/actions/workflows/main.yml)  
   
-<!--START_SECTION:waka-->  
-  
-```mermaid  
-pie  
-    "TypeScript" : 69.8  
-    "Bash" : 14.7  
-    "Python" : 8.0  
-    "Other" : 4.1  
-    "Makefile" : 2.5  
-```  
-  
+<!--START_SECTION:waka-->
+
+```mermaid
+pie
+    "TypeScript" : 70.4
+    "Bash" : 12.2
+    "Python" : 8.8
+    "Other" : 4.8
+    "Makefile" : 2.9
+```
+
 <!--END_SECTION:waka-->
