@@ -27,11 +27,10 @@
 
 ```mermaid
 pie
-    "TypeScript" : 93.2
-    "JSON" : 3.0
-    "CSV" : 1.8
-    "TSConfig" : 1.4
-    "Other" : 0.7
+    "TypeScript" : 88.4
+    "JSON" : 9.5
+    "TSConfig" : 1.3
+    "Other" : 0.8
 ```
 
 <!--END_SECTION:waka-->
