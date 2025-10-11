@@ -27,9 +27,9 @@
 
 ```mermaid
 pie
-    "TypeScript" : 76.4
-    "JSON" : 21.4
-    "Other" : 1.5
+    "TypeScript" : 77.4
+    "JSON" : 19.9
+    "Other" : 2.0
     "CSS" : 0.4
     "Text" : 0.3
 ```
