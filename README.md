@@ -27,11 +27,11 @@
 
 ```mermaid
 pie
-    "TypeScript" : 66.4
-    "JSON" : 18.4
-    "Other" : 6.1
-    "Bash" : 4.2
-    "CSS" : 1.7
+    "TypeScript" : 69.7
+    "JSON" : 19.8
+    "Other" : 4.5
+    "CSS" : 1.9
+    "fish" : 1.8
 ```
 
 <!--END_SECTION:waka-->
