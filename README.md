@@ -27,11 +27,11 @@
 
 ```mermaid
 pie
-    "TypeScript" : 66.1
-    "Other" : 18.1
-    "JSON" : 12.8
+    "TypeScript" : 65.5
+    "JSON" : 16.7
+    "Other" : 14.0
     "Bash" : 1.6
-    "SSH Key" : 1.3
+    "SSH Key" : 1.4
 ```
 
 <!--END_SECTION:waka-->
