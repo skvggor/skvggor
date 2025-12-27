@@ -27,10 +27,10 @@
 
 ```mermaid
 pie
-    "TypeScript" : 52.4
-    "JSON" : 18.6
-    "Bash" : 10.0
-    "Other" : 8.1
+    "TypeScript" : 51.3
+    "JSON" : 18.2
+    "YAML" : 10.3
+    "Other" : 8.9
     "Nginx configuration file" : 5.7
 ```
 
