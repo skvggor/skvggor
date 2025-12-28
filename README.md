@@ -27,11 +27,11 @@
 
 ```mermaid
 pie
-    "TypeScript" : 51.3
-    "JSON" : 18.2
-    "YAML" : 10.3
-    "Other" : 8.9
-    "Nginx configuration file" : 5.7
+    "TypeScript" : 37.9
+    "Nginx configuration file" : 21.0
+    "JSON" : 14.5
+    "YAML" : 9.1
+    "Other" : 6.8
 ```
 
 <!--END_SECTION:waka-->
