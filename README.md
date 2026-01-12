@@ -27,11 +27,11 @@
 
 ```mermaid
 pie
-    "TypeScript" : 61.3
-    "YAML" : 10.4
-    "Markdown" : 7.6
-    "JSON" : 7.0
-    "Other" : 3.9
+    "TypeScript" : 79.2
+    "JSON" : 9.5
+    "Markdown" : 3.7
+    "Other" : 2.8
+    "YAML" : 2.6
 ```
 
 <!--END_SECTION:waka-->
