@@ -19,7 +19,7 @@
 - Not afraid of legacy code or complex architecture
 ```
 
-### Weekly code
+### Weekly code  
   
 [![Latest data](https://github.com/skvggor/skvggor/actions/workflows/main.yml/badge.svg)](https://github.com/skvggor/skvggor/actions/workflows/main.yml)  
   
@@ -42,6 +42,7 @@ pie
   <a href="https://skvggor.dev"><img src="https://img.shields.io/badge/skvggor.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://trve.in"><img src="https://img.shields.io/badge/trve.in-000?style=for-the-badge" /></a>
   <a href="https://fazersites.com"><img src="https://img.shields.io/badge/fazersites.com-000?style=for-the-badge" /></a>
+  <br />
   <a href="https://peruibe.sampa.br"><img src="https://img.shields.io/badge/peruibe.sampa.br-000?style=for-the-badge" /></a>
   <a href="https://reposito.rio.br"><img src="https://img.shields.io/badge/reposito.rio.br-000?style=for-the-badge" /></a>
   <a href="https://skateboarding.cloud"><img src="https://img.shields.io/badge/skateboarding.cloud-000?style=for-the-badge" /></a>
