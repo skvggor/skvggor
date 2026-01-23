@@ -27,7 +27,6 @@
 
 ```mermaid
 pie
-    "HTML" : 100.0
 ```
 
 <!--END_SECTION:waka-->
