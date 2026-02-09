@@ -27,8 +27,6 @@
 
 ```mermaid
 pie
-    "JSON" : 85.1
-    "Clojure" : 14.9
 ```
 
 <!--END_SECTION:waka-->
