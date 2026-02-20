@@ -27,6 +27,7 @@
 
 ```mermaid
 pie
+    "Other" : 100.0
 ```
 
 <!--END_SECTION:waka-->
