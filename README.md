@@ -27,7 +27,9 @@
 
 ```mermaid
 pie
-    "Other" : 100.0
+    "TypeScript" : 79.1
+    "Other" : 15.5
+    "JSON" : 5.4
 ```
 
 <!--END_SECTION:waka-->
