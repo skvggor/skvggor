@@ -1,3 +1,14 @@
+<p align="left">
+  <a href="https://www.youtube.com/@skvggor"><img src="https://img.shields.io/badge/youtube.com/@skvggor-000?style=for-the-badge&logo=youtube&logoColor=red" /></a>
+  <a href="https://skvggor.dev"><img src="https://img.shields.io/badge/skvggor.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://trve.in"><img src="https://img.shields.io/badge/trve.in-000?style=for-the-badge" /></a>
+  <a href="https://fazersites.com"><img src="https://img.shields.io/badge/fazersites.com-000?style=for-the-badge" /></a>
+  <br />
+  <a href="https://peruibe.sampa.br"><img src="https://img.shields.io/badge/peruibe.sampa.br-000?style=for-the-badge" /></a>
+  <a href="https://reposito.rio.br"><img src="https://img.shields.io/badge/reposito.rio.br-000?style=for-the-badge" /></a>
+  <a href="https://skateboarding.cloud"><img src="https://img.shields.io/badge/skateboarding.cloud-000?style=for-the-badge" /></a>
+</p>
+
 <!-- <div align="center">
   <a href="https://skvggor.dev">
     <img src="https://github.com/skvggor/skvggor/assets/958723/d0c9aa9c-0c21-4219-acff-3d4f36f94691" alt="My header" />
@@ -35,16 +46,3 @@ pie
 ```
 
 <!--END_SECTION:waka-->
-
-# Links
-
-<p align="left">
-  <a href="https://www.youtube.com/@skvggor"><img src="https://img.shields.io/badge/youtube.com/@skvggor-000?style=for-the-badge&logo=youtube&logoColor=red" /></a>
-  <a href="https://skvggor.dev"><img src="https://img.shields.io/badge/skvggor.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://trve.in"><img src="https://img.shields.io/badge/trve.in-000?style=for-the-badge" /></a>
-  <a href="https://fazersites.com"><img src="https://img.shields.io/badge/fazersites.com-000?style=for-the-badge" /></a>
-  <br />
-  <a href="https://peruibe.sampa.br"><img src="https://img.shields.io/badge/peruibe.sampa.br-000?style=for-the-badge" /></a>
-  <a href="https://reposito.rio.br"><img src="https://img.shields.io/badge/reposito.rio.br-000?style=for-the-badge" /></a>
-  <a href="https://skateboarding.cloud"><img src="https://img.shields.io/badge/skateboarding.cloud-000?style=for-the-badge" /></a>
-</p>
