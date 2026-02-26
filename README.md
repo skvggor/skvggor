@@ -39,6 +39,7 @@ pie
 # Links
 
 <p align="left">
+  <a href="https://www.youtube.com/@skvggor"><img src="https://img.shields.io/badge/youtube.com/@skvggor-000?style=for-the-badge&logo=youtube&logoColor=red" /></a>
   <a href="https://skvggor.dev"><img src="https://img.shields.io/badge/skvggor.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://trve.in"><img src="https://img.shields.io/badge/trve.in-000?style=for-the-badge" /></a>
   <a href="https://fazersites.com"><img src="https://img.shields.io/badge/fazersites.com-000?style=for-the-badge" /></a>
