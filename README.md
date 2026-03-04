@@ -38,10 +38,10 @@
 
 ```mermaid
 pie
-    "TypeScript" : 76.2
-    "Markdown" : 13.3
-    "JSON" : 3.9
-    "Vue.js" : 2.4
+    "TypeScript" : 75.0
+    "Markdown" : 14.8
+    "JSON" : 4.0
+    "Vue.js" : 2.5
     "Python" : 1.2
 ```
 
