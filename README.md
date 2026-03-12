@@ -38,11 +38,11 @@
 
 ```mermaid
 pie
-    "TypeScript" : 64.6
-    "JSON" : 11.5
-    "Other" : 6.7
-    "Vue.js" : 5.7
-    "Bash" : 4.0
+    "TypeScript" : 70.5
+    "JSON" : 14.2
+    "Other" : 5.0
+    "Bash" : 4.4
+    "TSConfig" : 2.2
 ```
 
 <!--END_SECTION:waka-->
