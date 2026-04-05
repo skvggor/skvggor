@@ -9,11 +9,7 @@
   <a href="https://skateboarding.cloud"><img src="https://img.shields.io/badge/skateboarding.cloud-000?style=for-the-badge" /></a>
 </p>
 
-<!-- <div align="center">
-  <a href="https://skvggor.dev">
-    <img src="https://github.com/skvggor/skvggor/assets/958723/d0c9aa9c-0c21-4219-acff-3d4f36f94691" alt="My header" />
-  </a>
-</div>
+![five-O](https://github.com/user-attachments/assets/afec95c0-7cc7-4d79-9937-f6cb9cf34b50)
 
 ---
 
