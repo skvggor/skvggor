@@ -21,7 +21,6 @@
 + 14+ years of experience in large-scale systems
 + Focused on frontend (React, Next.js, MUI, DX)
 + Comfortable in backend: Node.js and Python
-! Currently learning Rust and Clojure with passion
 + Known for leadership, organization, and collaboration
 - Not afraid of legacy code or complex architecture
 ```
