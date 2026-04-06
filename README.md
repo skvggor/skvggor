@@ -13,7 +13,7 @@
 
 ---
 
-### About me -->
+### About me
 
 ```diff
 @@ Web Developer — Frontend Specialist @@
