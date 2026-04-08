@@ -1,4 +1,4 @@
-<p align="left">
+<p align="center">
   <a href="https://www.youtube.com/@skvggor"><img src="https://img.shields.io/badge/youtube.com/@skvggor-000?style=for-the-badge&logo=youtube&logoColor=red" /></a>
   <a href="https://skvggor.dev"><img src="https://img.shields.io/badge/skvggor.dev-000?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://trve.in"><img src="https://img.shields.io/badge/trve.in-000?style=for-the-badge" /></a>
@@ -7,9 +7,10 @@
   <a href="https://peruibe.sampa.br"><img src="https://img.shields.io/badge/peruibe.sampa.br-000?style=for-the-badge" /></a>
   <a href="https://reposito.rio.br"><img src="https://img.shields.io/badge/reposito.rio.br-000?style=for-the-badge" /></a>
   <a href="https://skateboarding.cloud"><img src="https://img.shields.io/badge/skateboarding.cloud-000?style=for-the-badge" /></a>
-</p>
+  <br /><br /><br />
+  <img width="449" height="398" alt="SK8" src="https://github.com/user-attachments/assets/2a8a0b76-823e-4fd0-959e-83f131d69e5d" />
 
-![five-O](https://github.com/user-attachments/assets/afec95c0-7cc7-4d79-9937-f6cb9cf34b50)
+</p>
 
 ---
 
