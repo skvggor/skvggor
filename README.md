@@ -34,11 +34,11 @@
 
 ```mermaid
 pie
-    "TypeScript" : 39.0
-    "Markdown" : 24.3
-    "Bash" : 20.7
-    "Other" : 11.1
-    "JSON" : 4.0
+    "TypeScript" : 45.8
+    "Bash" : 29.5
+    "Other" : 11.5
+    "Markdown" : 10.3
+    "JSON" : 2.9
 ```
 
 <!--END_SECTION:waka-->
