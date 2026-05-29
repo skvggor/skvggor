@@ -39,11 +39,11 @@
 
 ```mermaid
 pie
-    "TypeScript" : 63.2
-    "Markdown" : 16.3
-    "CSS" : 3.9
-    "Other" : 3.5
-    "ERB" : 2.7
+    "TypeScript" : 48.2
+    "Markdown" : 21.4
+    "CSS" : 5.9
+    "Other" : 5.0
+    "ERB" : 4.2
 ```
 
 <!--END_SECTION:waka-->
