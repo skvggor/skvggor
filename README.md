@@ -37,13 +37,6 @@
 
 <!--START_SECTION:waka-->
 
-```mermaid
-pie
-    "TypeScript" : 48.2
-    "Markdown" : 21.4
-    "CSS" : 5.9
-    "Other" : 5.0
-    "ERB" : 4.2
-```
+<p align="center"><img src="assets/waka-readme.svg" alt="WakaTime stats" /></p>
 
 <!--END_SECTION:waka-->
