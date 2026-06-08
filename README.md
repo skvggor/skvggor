@@ -37,6 +37,6 @@
 
 <!--START_SECTION:waka-->
 
-<img src="assets/waka-readme.svg" alt="WakaTime coding stats: TypeScript 38.2%, Markdown 34.4%, Bash 6.8%, Other 5.0%, JavaScript 3.7%" />
+<img src="assets/waka-readme.svg" alt="WakaTime coding stats: Markdown 39.9%, TypeScript 29.1%, Bash 8.3%, Other 5.4%, JavaScript 4.7%" />
 
 <!--END_SECTION:waka-->
