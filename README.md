@@ -37,6 +37,6 @@
 
 <!--START_SECTION:waka-->
 
-<img src="assets/waka-readme.svg" alt="WakaTime coding stats: Markdown 33.9%, TypeScript 33.6%, Python 9.2%, Other 7.3%, Rust 5.7%" />
+<img src="assets/waka-readme.svg" alt="WakaTime coding stats: TypeScript 40.4%, Markdown 39.4%, Rust 5.9%, YAML 4.6%, Other 4.4%" />
 
 <!--END_SECTION:waka-->
