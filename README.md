@@ -29,16 +29,13 @@
 
 ### 作品 · Selected works
 
-<p>
-  <a href="https://skvggor.github.io/acag/"><img width="49%" align="left" alt="acag — article cover art generator in an Omakase / Japanese-constructivist style. Written in Rust." src="assets/card-acag.svg" /></a>
-  <a href="https://skvggor.github.io/hypso/"><img width="49%" align="right" alt="Hypso — 4K topographic-style wallpapers: procedural fractal contour maps, reproducible by seed. Written in Rust." src="assets/card-hypso.svg" /></a>
-</p>
-<br clear="both" />
-<p>
-  <a href="https://klangbild.skvggor.dev/"><img width="49%" align="left" alt="klangbild — 4K audio-visualizer video and matching cover art generated from any MP3 file. Written in Python." src="assets/card-klangbild.svg" /></a>
-  <a href="https://skvggor.github.io/pharos/"><img width="49%" align="right" alt="Pharos — a serif pixel display font for React: text rendered as a configurable grid of squares. Written in TypeScript." src="assets/card-pharos.svg" /></a>
-</p>
-<br clear="both" />
+<a href="https://skvggor.github.io/acag/"><img width="100%" alt="acag — article cover art generator in an Omakase / Japanese-constructivist style. Written in Rust." src="assets/card-acag.svg" /></a>
+
+<a href="https://skvggor.github.io/hypso/"><img width="100%" alt="Hypso — 4K topographic-style wallpapers: procedural fractal contour maps, reproducible by seed. Written in Rust." src="assets/card-hypso.svg" /></a>
+
+<a href="https://klangbild.skvggor.dev/"><img width="100%" alt="klangbild — 4K audio-visualizer video and matching cover art generated from any MP3 file. Written in Python." src="assets/card-klangbild.svg" /></a>
+
+<a href="https://skvggor.github.io/pharos/"><img width="100%" alt="Pharos — a serif pixel display font for React: text rendered as a configurable grid of squares. Written in TypeScript." src="assets/card-pharos.svg" /></a>
 
 ### 墨 · Weekly code
 
