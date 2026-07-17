@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="820"alt="readme-hero" src="https://github.com/user-attachments/assets/b51fec76-2c5c-44c0-9b12-d5176520d043" />
+  <img width="820" alt="Marcos Lima — Software Developer, over a terracotta topographic-map artwork" src="assets/readme-hero.png" />
 </p>
 
 <p align="center">
@@ -7,14 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@skvggor"><img src="https://img.shields.io/badge/youtube.com/@skvggor-1e1108?style=for-the-badge&logo=youtube&logoColor=red" /></a>
-  <a href="https://skvggor.dev"><img src="https://img.shields.io/badge/skvggor.dev-1e1108?style=for-the-badge&logo=google-chrome&logoColor=f0e0c8" /></a>
-  <a href="https://trve.in"><img src="https://img.shields.io/badge/trve.in-1e1108?style=for-the-badge" /></a>
-  <a href="https://fazersites.com"><img src="https://img.shields.io/badge/fazersites.com-1e1108?style=for-the-badge" /></a>
-  <br />
-  <a href="https://peruibe.sampa.br"><img src="https://img.shields.io/badge/peruibe.sampa.br-1e1108?style=for-the-badge" /></a>
-  <a href="https://reposito.rio.br"><img src="https://img.shields.io/badge/reposito.rio.br-1e1108?style=for-the-badge" /></a>
-  <a href="https://skateboarding.cloud"><img src="https://img.shields.io/badge/skateboarding.cloud-1e1108?style=for-the-badge" /></a>
+  <a href="https://www.youtube.com/@skvggor"><img alt="YouTube channel: youtube.com/@skvggor" src="https://img.shields.io/badge/youtube.com/@skvggor-1e1108?style=for-the-badge&logo=youtube&logoColor=red" /></a>
+  <a href="https://skvggor.dev"><img alt="Personal website: skvggor.dev" src="https://img.shields.io/badge/skvggor.dev-1e1108?style=for-the-badge&logo=google-chrome&logoColor=f0e0c8" /></a>
+  <a href="https://trve.in"><img alt="trve.in" src="https://img.shields.io/badge/trve.in-1e1108?style=for-the-badge" /></a>
+  <a href="https://fazersites.com"><img alt="fazersites.com" src="https://img.shields.io/badge/fazersites.com-1e1108?style=for-the-badge" /></a>
 </p>
 
 ---
@@ -25,15 +21,23 @@
 @@ Web Developer — Frontend Specialist @@
 
 + 14+ years of experience in large-scale systems
-+ Focused on frontend (React, Next.js, MUI, DX)
++ Focused on design, accessibility, and web fundamentals
 + Comfortable in backend: Node.js and Python
 + Known for leadership, organization, and collaboration
 - Not afraid of legacy code or complex architecture
 ```
 
-### 墨 · Weekly code
+### 作品 · Selected works
 
-[![Latest data](https://github.com/skvggor/skvggor/actions/workflows/main.yml/badge.svg)](https://github.com/skvggor/skvggor/actions/workflows/main.yml)
+<p align="center">
+  <a href="https://skvggor.github.io/acag/"><img width="402" alt="acag — article cover art generator in an Omakase / Japanese-constructivist style. Written in Rust." src="assets/card-acag.svg" /></a>
+  <a href="https://skvggor.github.io/hypso/"><img width="402" alt="Hypso — 4K topographic-style wallpapers: procedural fractal contour maps, reproducible by seed. Written in Rust." src="assets/card-hypso.svg" /></a>
+  <br />
+  <a href="https://klangbild.skvggor.dev/"><img width="402" alt="klangbild — 4K audio-visualizer video and matching cover art generated from any MP3 file. Written in Python." src="assets/card-klangbild.svg" /></a>
+  <a href="https://skvggor.github.io/pharos/"><img width="402" alt="Pharos — a serif pixel display font for React: text rendered as a configurable grid of squares. Written in TypeScript." src="assets/card-pharos.svg" /></a>
+</p>
+
+### 墨 · Weekly code
 
 <!--START_SECTION:waka-->
 
