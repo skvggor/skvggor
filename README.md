@@ -41,8 +41,8 @@
 
 <!--START_SECTION:waka-->
 
-Total Time: 27 hrs 49 mins
+Total Time: 29 hrs 42 mins
 
-<img src="assets/waka-readme.svg" width="100%" alt="WakaTime coding stats: TypeScript 31.2%, CSS 19.1%, Markdown 14.6%, JavaScript 10.8%, Other 7.6%" />
+<img src="assets/waka-readme.svg" width="100%" alt="WakaTime coding stats: TypeScript 23.6%, CSS 22.4%, Markdown 14.3%, JavaScript 13.1%, HTML 7.8%" />
 
 <!--END_SECTION:waka-->
