@@ -41,8 +41,8 @@
 
 <!--START_SECTION:waka-->
 
-Total Time: 30 hrs 53 mins
+Total Time: 35 hrs 14 mins
 
-<img src="assets/waka-readme.svg" width="100%" alt="WakaTime coding stats: QML 24.2%, Markdown 17.5%, Bash 10.9%, C 8.7%, YAML 7.8%" />
+<img src="assets/waka-readme.svg" width="100%" alt="WakaTime coding stats: QML 27.1%, Markdown 18.4%, Bash 9.1%, YAML 8.6%, Python 7.3%" />
 
 <!--END_SECTION:waka-->
