@@ -16,6 +16,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           LANG_COUNT: 5
-          GRAPH_STYLE: seigaiha
-          THEME: terracotta
+          GRAPH_STYLE: kikko
+          THEME: matcha
           SHOW_TOTAL: true
