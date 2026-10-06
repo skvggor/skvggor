@@ -9,8 +9,6 @@
 <p align="center">
   <a href="https://www.youtube.com/@skvggor"><img alt="YouTube channel: youtube.com/@skvggor" src="https://img.shields.io/badge/youtube.com/@skvggor-1e1108?style=for-the-badge&logo=youtube&logoColor=red" /></a>
   <a href="https://skvggor.dev"><img alt="Personal website: skvggor.dev" src="https://img.shields.io/badge/skvggor.dev-1e1108?style=for-the-badge&logo=google-chrome&logoColor=f0e0c8" /></a>
-  <a href="https://trve.in"><img alt="trve.in" src="https://img.shields.io/badge/trve.in-1e1108?style=for-the-badge" /></a>
-  <a href="https://fazersites.com"><img alt="fazersites.com" src="https://img.shields.io/badge/fazersites.com-1e1108?style=for-the-badge" /></a>
 </p>
 
 ---
