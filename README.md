@@ -39,8 +39,8 @@
 
 <!--START_SECTION:waka-->
 
-Total Time: 9 hrs 1 min
+Total Time: 8 hrs 17 mins
 
-<img src="assets/waka-readme.svg" width="100%" alt="WakaTime coding stats: Markdown 24.2%, Python 23.4%, Bash 13.0%, Other 12.9%, HTML 11.8%" />
+<img src="assets/waka-readme.svg" width="100%" alt="WakaTime coding stats: Markdown 32.4%, Python 26.5%, HTML 13.4%, Other 9.1%, Lua 8.4%" />
 
 <!--END_SECTION:waka-->
